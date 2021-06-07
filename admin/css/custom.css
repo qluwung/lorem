@@ -1,0 +1,8 @@
+.file {
+    visibility: hidden;
+    position: absolute;
+}
+
+.table td{
+    align-items: center;
+}
